@@ -11,7 +11,7 @@ return [
     |
     */
 
-    'ago' => ':time назад',
+    'ago' => ':time',
     'from_now' => 'через :time',
     'after' => ':time после',
     'before' => ':time до',
